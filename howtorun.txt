@@ -1,0 +1,5 @@
+npm install -g webpack webpack-cli
+npm install webpack webpack-cli webpack-dev-server --save-dev
+npm install three three-stdlib
+npm install three
+npx webpack serve --open
